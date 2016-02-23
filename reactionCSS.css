@@ -1,0 +1,32 @@
+    	#title{
+    		text-align: center;
+    		font-family: arial;
+    	}
+
+    	#instructions{
+    		text-align: center;
+    		font-family: arial;
+    	}
+
+    	#redBox {
+    		width: 200px;
+    		height: 200px;
+    		background-color: red;
+    		display: none;
+    		position: relative;
+    	}
+
+    	#scoreboard{
+    		position: relative;
+    		width: 100%;
+    		margin: 0;
+    		background-color: #e6e6e6;
+    		height: 75px;
+    	}
+
+    	#score {
+    		vertical-align: middle;
+    		text-align: center;
+    		line-height: 75px;
+    		font-family: arial;
+    	}
